@@ -1,0 +1,2 @@
+MainPackage=D:\Project\SchoolApp\bin\x86\Debug\SchoolApp_1.0.1.0_x86_Debug.msix
+SymbolPackage=D:\Project\SchoolApp\obj\x86\Debug\Symbols\SchoolApp_1.0.1.0_x86_Debug.appxsym
